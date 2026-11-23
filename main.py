@@ -10,6 +10,9 @@ not even the judge reading it. The curiosity is the text itself: an open
 loop the reader cannot close, handed to the judge in three final words.
 No imperative anywhere, no stock phrase; every sentence is declarative,
 so the intrigue comes from the image, not from being told to wonder.
+
+Revision note: docstring clarified after the kit check (thinking_revised);
+the entry text below is unchanged.
 """
 
 import os
